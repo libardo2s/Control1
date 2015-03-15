@@ -4,5 +4,11 @@ from django.template import RequestContext
 # Create your views here.
 def index(request):
     return render_to_response('index.html',context_instance=RequestContext(request))
-def IniciarSesion(request):
+def iniciarsesion(request):
     return render_to_response('signin.html',context_instance=RequestContext(request))
+
+def pensum(request):
+    return render_to_response('pensum.html',context_instance=RequestContext(request))
+
+def opcioncalificacion(request):
+    return render_to_response('OpcionCalificaciones.html',context_instance=RequestContext(request))
