@@ -12,3 +12,15 @@ def pensum(request):
 
 def opcioncalificacion(request):
     return render_to_response('OpcionCalificaciones.html',context_instance=RequestContext(request))
+
+def matricula(request):
+    return render_to_response('matricula.html',context_instance=RequestContext(request))
+
+def matriculamateria(request):
+    return render_to_response('matricula_materia.html',context_instance=RequestContext(request))
+
+def horario(request):
+    return render_to_response('horario.html',context_instance=RequestContext(request))
+
+def financiera(request):
+    return render_to_response('matriculafinanciera.html',context_instance=RequestContext(request))

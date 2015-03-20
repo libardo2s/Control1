@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaAcademico/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5552764" vertical-offset="0" max-vertical-offset="398">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -37,24 +37,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpcionCalificaciones.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/OpcionCalificaciones.html">
+      <file leaf-file-name="matricula_materia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matricula_materia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.076923" vertical-offset="131" max-vertical-offset="1734">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="e#538#564#0#HTML" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-2.5384614" vertical-offset="1056" max-vertical-offset="1564">
+              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.v1.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estaticos/estaticos/css/app/app.v1.css">
+      <file leaf-file-name="matricula.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matricula.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.448276" vertical-offset="19589" max-vertical-offset="25143">
-              <caret line="1165" column="4" selection-start-line="1165" selection-start-column="4" selection-end-line="1165" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="-3.9230769" vertical-offset="34" max-vertical-offset="2040">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="e#2757#2782#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,10 +62,22 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaAcademico/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="527">
+              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="horario.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/horario.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.3090909" vertical-offset="2278" max-vertical-offset="2635">
+              <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+              <folding>
+                <element signature="e#3880#3905#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,18 +86,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estaticos/plantillas/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.090909" vertical-offset="1428" max-vertical-offset="2941">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SistemaAcademico/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1547">
-              <caret line="85" column="78" selection-start-line="85" selection-start-column="78" selection-end-line="85" selection-end-column="78" />
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="1105" max-vertical-offset="2941">
+              <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -94,23 +96,22 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estaticos/plantillas/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.3818183" vertical-offset="1319" max-vertical-offset="3893">
-              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.115385" vertical-offset="272" max-vertical-offset="4335">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
               <folding>
-                <element signature="e#8052#8072#0#HTML" expanded="true" />
+                <element signature="e#8078#8098#0#HTML" expanded="true" />
+                <element signature="e#8554#8574#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pensum.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/pensum.html">
+      <file leaf-file-name="matriculafinanciera.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matriculafinanciera.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="629" max-vertical-offset="1156">
-              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-              <folding>
-                <element signature="e#1837#1862#0#HTML" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.50268817" vertical-offset="799" max-vertical-offset="1343">
+              <caret line="58" column="78" selection-start-line="58" selection-start-column="78" selection-end-line="58" selection-end-column="78" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +119,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estaticos/estaticos/css/bootstrap/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.0689654" vertical-offset="1021" max-vertical-offset="105961">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1021" max-vertical-offset="105961">
               <caret line="67" column="4" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="4" />
               <folding />
             </state>
@@ -128,7 +129,7 @@
       <file leaf-file-name="scaffolding.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estaticos/estaticos/less/bootstrap/scaffolding.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4705882" vertical-offset="741" max-vertical-offset="2380">
+            <state vertical-scroll-proportion="0.0" vertical-offset="741" max-vertical-offset="2380">
               <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding />
             </state>
@@ -155,14 +156,18 @@
         <option value="$PROJECT_DIR$/estaticos/estaticos/settings.py" />
         <option value="$PROJECT_DIR$/SistemaAcademico/settings.py" />
         <option value="$PROJECT_DIR$/estaticos/estaticos/css/bootstrap/bootstrap.css" />
-        <option value="$PROJECT_DIR$/estaticos/plantillas/base.html" />
         <option value="$PROJECT_DIR$/estaticos/plantillas/pensum.html" />
-        <option value="$PROJECT_DIR$/SistemaAcademico/views.py" />
-        <option value="$PROJECT_DIR$/SistemaAcademico/urls.py" />
         <option value="$PROJECT_DIR$/estaticos/plantillas/OpcionCalificaciones.html" />
         <option value="$PROJECT_DIR$/estaticos/estaticos/css/app/app.v1.css" />
         <option value="$PROJECT_DIR$/estaticos/estaticos/less/bootstrap/scaffolding.less" />
+        <option value="$PROJECT_DIR$/estaticos/plantillas/base.html" />
+        <option value="$PROJECT_DIR$/estaticos/plantillas/matricula_materia.html" />
+        <option value="$PROJECT_DIR$/estaticos/plantillas/matricula.html" />
+        <option value="$PROJECT_DIR$/estaticos/plantillas/horario.html" />
+        <option value="$PROJECT_DIR$/SistemaAcademico/views.py" />
+        <option value="$PROJECT_DIR$/SistemaAcademico/urls.py" />
         <option value="$PROJECT_DIR$/estaticos/plantillas/index.html" />
+        <option value="$PROJECT_DIR$/estaticos/plantillas/matriculafinanciera.html" />
       </list>
     </option>
   </component>
@@ -198,6 +203,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,6 +219,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Control1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Control1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Control1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estaticos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plantillas" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,7 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -531,7 +554,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3301887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3301887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -567,38 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1777" max-vertical-offset="6511">
-          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/typography.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3771" max-vertical-offset="4131">
-          <caret line="237" column="17" selection-start-line="237" selection-start-column="17" selection-end-line="237" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/timeline.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="4267">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1870">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SistemaAcademico/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1547">
@@ -612,7 +603,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9452">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#8052#8072#0#HTML" expanded="true" />
+            <element signature="e#8078#8098#0#HTML" expanded="true" />
+            <element signature="e#8554#8574#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -639,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1361" max-vertical-offset="1802">
           <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1870">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1361" max-vertical-offset="1802">
           <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1870">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +786,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="7501" max-vertical-offset="8041">
           <caret line="467" column="14" selection-start-line="467" selection-start-column="14" selection-end-line="467" selection-end-column="14" />
           <folding>
-            <element signature="e#8052#8072#0#HTML" expanded="true" />
+            <element signature="e#8078#8098#0#HTML" expanded="true" />
+            <element signature="e#8554#8574#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -899,7 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1870">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -907,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1361" max-vertical-offset="1802">
           <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,37 +906,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.090909" vertical-offset="1428" max-vertical-offset="2941">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estaticos/plantillas/pensum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="629" max-vertical-offset="1156">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1156">
           <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-          <folding>
-            <element signature="e#1837#1862#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/estaticos/plantillas/OpcionCalificaciones.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.076923" vertical-offset="131" max-vertical-offset="1734">
+        <state vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="1734">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <element signature="e#538#564#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/estaticos/estaticos/css/app/app.v1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.448276" vertical-offset="19589" max-vertical-offset="25143">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19589" max-vertical-offset="25143">
           <caret line="1165" column="4" selection-start-line="1165" selection-start-column="4" selection-end-line="1165" selection-end-column="4" />
           <folding />
         </state>
@@ -957,7 +932,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estaticos/estaticos/css/bootstrap/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0689654" vertical-offset="1021" max-vertical-offset="105961">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1021" max-vertical-offset="105961">
           <caret line="67" column="4" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="4" />
           <folding />
         </state>
@@ -965,26 +940,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estaticos/estaticos/less/bootstrap/scaffolding.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4705882" vertical-offset="741" max-vertical-offset="2380">
+        <state vertical-scroll-proportion="0.0" vertical-offset="741" max-vertical-offset="2380">
           <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/index.html">
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3818183" vertical-offset="1319" max-vertical-offset="3893">
-          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="1105" max-vertical-offset="2941">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matricula_materia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5384614" vertical-offset="1056" max-vertical-offset="1564">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matricula.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="34" max-vertical-offset="2040">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="37" selection-end-column="26" />
           <folding>
-            <element signature="e#8052#8072#0#HTML" expanded="true" />
+            <element signature="e#2757#2782#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/horario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3090909" vertical-offset="2278" max-vertical-offset="2635">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="e#3880#3905#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SistemaAcademico/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="527">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -993,11 +994,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SistemaAcademico/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5552764" vertical-offset="0" max-vertical-offset="398">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="272" max-vertical-offset="4335">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="e#8078#8098#0#HTML" expanded="true" />
+            <element signature="e#8554#8574#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estaticos/plantillas/matriculafinanciera.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50268817" vertical-offset="799" max-vertical-offset="1343">
+          <caret line="58" column="78" selection-start-line="58" selection-start-column="78" selection-end-line="58" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
