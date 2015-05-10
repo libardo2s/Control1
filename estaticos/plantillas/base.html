@@ -1,3 +1,4 @@
+{% load crispy_forms_tags %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,7 +24,7 @@
 
     <!-- Base Styling  -->
     <link rel="stylesheet" href="../estaticos/css/app/app.v1.css" />
-
+     <script src="../estaticos/js/validaciones/ValidacionFormularioLogin.js"></script>
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -42,18 +43,9 @@
 
             <div class="user text-center">
                   <img src="../estaticos/images/avtar/user.png" class="img-circle" alt="...">
-                  <h4 class="user-name">Akshay Kumar</h4>
+                  <h4 class="user-name">Deiner Restrepo</h4>
 
-                  <div class="dropdown user-login">
-                  <button class="btn btn-xs dropdown-toggle btn-rounded" type="button" data-toggle="dropdown" aria-expanded="true">
-                    <i class="fa fa-circle status-icon available"></i> Available <i class="fa fa-angle-down"></i>
-                  </button>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation"><a role="menuitem" href="#"><i class="fa fa-circle status-icon busy"></i> Busy</a></li>
-                    <li role="presentation"><a role="menuitem" href="#"><i class="fa fa-circle status-icon invisibled"></i> Invisible</a></li>
-                    <li role="presentation"><a role="menuitem" href="#"><i class="fa fa-circle status-icon signout"></i> Sign out</a></li>
-                  </ul>
-                  </div>
+
             </div>
 
 
@@ -101,7 +93,7 @@
 {% endblock %}
 
         <footer class="container-fluid footer">
-        	Copyright &copy; 2014 <a href="http://freakpixels.com/" target="_blank">FreakPixels</a>
+        	Copyright &copy; 2015 Unicesar
             <a href="#" class="pull-right scrollToTop"><i class="fa fa-chevron-up"></i></a>
         </footer>
 

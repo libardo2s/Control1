@@ -2,9 +2,11 @@ from django.conf.urls import patterns, include, url
 from django.contrib import admin
 
 urlpatterns = patterns('',
-    # Examples:
+    # Examp
+    # les:
+
     url(r'^$', 'SistemaAcademico.views.index', name='home'),
-    url(r'^login/', 'SistemaAcademico.views.iniciarsesion', name='home'),
+    url(r'^login/', 'SistemaAcademico.views.iniciarsesion', name='login'),
      url(r'^pensum/', 'SistemaAcademico.views.pensum', name='pensum'),
      url(r'^opcion/', 'SistemaAcademico.views.opcioncalificacion', name='opcion'),
      url(r'^matricula/', 'SistemaAcademico.views.matricula', name='opcion'),
@@ -12,6 +14,6 @@ urlpatterns = patterns('',
     url(r'^horario/', 'SistemaAcademico.views.horario', name='opcion'),
     url(r'^financiera/', 'SistemaAcademico.views.financiera', name='opcion'),
     # url(r'^blog/', include('blog.urls')),
-
+    url(r'^grappelli/', include('grappelli.urls')),
     url(r'^admin/', include(admin.site.urls)),
 )

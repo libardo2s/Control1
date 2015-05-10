@@ -23,10 +23,13 @@
                                 </tr>
                               </thead>
                               <tbody>
+                              {% for materia in m %}
+
+
                                 <tr>
-                                  <td>CQ43</td>
-                                  <td>Control 1</td>
-                                  <td>04</td>
+                                  <td>{{ materia.codigo }}</td>
+                                  <td>{{ materia.nombre }}</td>
+                                  <td>{{ materia.creditos }}</td>
 
                                     <td>
 
@@ -46,7 +49,7 @@
                                     </td>
 
                                 </tr>
-
+ {% endfor %}
                               </tbody>
                             </table>
 
