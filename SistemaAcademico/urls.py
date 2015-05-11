@@ -1,12 +1,13 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
+from SistemaAcademico.views import Index,Logueado
 
 urlpatterns = patterns('',
     # Examp
     # les:
 
-    url(r'^$', 'SistemaAcademico.views.index', name='home'),
-    url(r'^login/', 'SistemaAcademico.views.iniciarsesion', name='login'),
+    url(r'^$', Index.as_view(), name='index'),
+    url(r'^principal/', Logueado.as_view(), name='home'),
      url(r'^pensum/', 'SistemaAcademico.views.pensum', name='pensum'),
      url(r'^opcion/', 'SistemaAcademico.views.opcioncalificacion', name='opcion'),
      url(r'^matricula/', 'SistemaAcademico.views.matricula', name='opcion'),

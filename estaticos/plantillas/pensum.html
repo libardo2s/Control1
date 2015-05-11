@@ -1,18 +1,13 @@
-
-        <!-- Header Ends -->
-        
-       {% extends 'base.html' %}
+{% extends 'base.html' %}
 {% block content %}
-        <div class="warper container-fluid">
-
-            <div class="page-header"><h1>Academico <small>Administracion de estudiante</small></h1></div>
-            
- <!-- fila comienzo -->
-<div class="panel panel-default">
-                        <div class="panel-heading">Periodo 1</div>
-                        <div class="panel-body">
-
-                        	<table class="table table-striped no-margn">
+  <div class="warper container-fluid">
+    <div class="page-header"><h1>Academico <small>Administracion de estudiante</small></h1></div>
+    
+    <div class="panel panel-default">
+      <div class="panel-heading">Periodo 1</div>
+        <div class="panel-body">
+          <table class="table table-striped no-margn">
+          {{pensum}}
                               <thead>
                                 <tr>
                                   <th>Codigo</th>

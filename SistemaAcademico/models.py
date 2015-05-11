@@ -1,5 +1,5 @@
 from django.db import models
-
+from django.contrib.auth.models import User
 # Create your models here.
 class Usuario(models.Model):
     username= models.CharField(max_length=30,primary_key=True)
@@ -27,9 +27,13 @@ class Programa(models.Model):
 
      def __unicode__(self):
         return self.nombre
-class Estudiante(Persona):
-    programa=models.ForeignKey(Programa)
 
+class Estudiante(Persona):
+    programa = models.ForeignKey(Programa)
+    usuario = models.ForeignKey(User, unique=True)
+
+    def __unicode__(self):
+        return self.nombre + " " + self.apellido
 
 class Profesor(Persona):
     profesion=models.CharField(max_length=50)
