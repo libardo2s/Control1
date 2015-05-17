@@ -88,3 +88,6 @@ STATIC_ROOT = 'staticfiles'
 STATIC_URL = '/estaticos/'
 STATICFILES_DIRS = (os.path.join(BASE_DIR, 'estaticos/estaticos/'),)
 TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'estaticos/../estaticos/plantillas'),)
+
+from django.conf.global_settings import TEMPLATE_CONTEXT_PROCESSORS as TCP
+TEMPLATE_CONTEXT_PROCESSORS =  TCP+('SistemaAcademico.context_processors.info_estudiante',)

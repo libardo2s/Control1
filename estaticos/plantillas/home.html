@@ -1,8 +1,16 @@
 {% extends 'base.html' %}
-{%block usuario%}{{estudiante}}{%endblock%}
+{%block usuario%}
+<h4 class="user-name">{{estudiante.nombre}}</h4>
+<h4 class="user-name">{{estudiante.programa}}</h4>
+
+{%endblock%}
 {% block content %}
     <div class="warper container-fluid">
-        <div class="page-header"><h1>Academico <small>Administracion de estudiante</small></h1></div>
+        <div class="page-header">
+            <h1>Academico Estudiante
+                <small>{{estudiante.programa}}</small>
+            </h1>
+        </div>
             <div class="row">
                 <div class="panel panel-default">
                     <div class="panel-heading">Opciones</div>

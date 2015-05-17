@@ -20,6 +20,7 @@ class Facultad(models.Model):
 
      def __unicode__(self):
         return self.nombre
+        
 class Programa(models.Model):
      facultad=models.ForeignKey(Facultad)
      codigo=models.CharField(primary_key=True,max_length=10)
@@ -30,7 +31,7 @@ class Programa(models.Model):
 
 class Estudiante(Persona):
     programa = models.ForeignKey(Programa)
-    usuario = models.ForeignKey(User, unique=True)
+    usuario = models.ForeignKey(User)
 
     def __unicode__(self):
         return self.nombre + " " + self.apellido

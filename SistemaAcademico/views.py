@@ -32,14 +32,8 @@ class Index(FormView):
             return render_to_response('signin.html',{"estado":"Error de Usuario o Contrasena","form":form},context_instance=RequestContext(self.request))
         return super(Login, self).form_valid(form)
     
-class Logueado(ListView):
-    context_object_name = "estudiante"
+class Logueado(TemplateView):
     template_name = "home.html"
-
-    def get_queryset(self):
-        #self.publisher = get_object_or_404(Estudiante, name=self.args[0])
-        contexto = Estudiante.objects.filter(usuario=self.request.user)
-        return contexto
 
 def pensum(request):
     return render_to_response('pensum.html',locals(),context_instance=RequestContext(request))
